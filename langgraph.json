@@ -1,0 +1,8 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "dependencies": ["."],
+  "graphs": {
+    "chat": "agent:graph"
+  },
+  "api_version": "0.2"
+}
