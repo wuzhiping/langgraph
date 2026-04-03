@@ -2,7 +2,7 @@
   "$schema": "https://langgra.ph/schema.json",
   "dependencies": ["."],
   "graphs": {
-    "chat": "agent:graph"
+    "deep": "agents.deep:make_agent"
   },
   "api_version": "0.2"
 }

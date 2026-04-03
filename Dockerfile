@@ -18,7 +18,7 @@ COPY ./langgraph.json /app/
 
 WORKDIR /app
 
-ENV OPENAI_API_KEY=sk-k5UlvstW5kP4G0jd7rK1cA
+ENV OPENAI_API_KEY=sk-k5UlvstW5kP4G0jd7rK1cZ
 ENV OPENAI_BASE_URL=http://litellm.feg.cn/v1
 
 ENTRYPOINT []
